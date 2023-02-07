@@ -158,7 +158,6 @@ function isLGSeven(numberValue) {
   
   }
   
-  
   // The ~~~ isLGSeven() ~~~ functions takes a NUMBER value as input.. it measures the difference between input and number 7... if the difference is less than 7 it returns the result as an output..
   
   //  If the difference is more or equal to 7 ... it multiply the input value with 2 and return it as an output...

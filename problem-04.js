@@ -3,6 +3,7 @@
 // ======================================                                               ======================================
 
 function findingBadData(numberArray) {
+    
   let badData = [];
 
   //   badData is an empty array. it has no element right now...
